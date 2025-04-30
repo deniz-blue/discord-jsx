@@ -1,3 +1,9 @@
+# Archived
+
+Please check out [discord-jsx-renderer](https://github.com/deniz-blue/discordjsx) instead.
+
+---
+
 # @alan404/discordjsx
 
 Allows you to use React/JSX in your discord.js projects
